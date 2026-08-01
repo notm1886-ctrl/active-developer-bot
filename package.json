@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
-  "license": "MIT"
+  "dependencies": {
+    "discord.js": "^14.21.0"
+  }
 }
