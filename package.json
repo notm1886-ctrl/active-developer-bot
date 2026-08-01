@@ -1,1 +1,11 @@
-
+{
+  "name": "active-developer-bot",
+  "version": "1.0.0",
+  "description": "My first Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
